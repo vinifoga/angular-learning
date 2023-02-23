@@ -1,4 +1,4 @@
-* {
+*, p {
     margin: 0;
     padding: 0;
     font-family: Helvetica;
@@ -21,7 +21,7 @@ body {
 }
 
 
-button {
+button,  input[type=submit] {
     appearance: button;
     background-color: rgb(151, 151, 151);
     background-image: none;
